@@ -1,0 +1,7 @@
+title: KiFéKoi
+description: Mentions légales, confidentialité et conditions d'utilisation
+theme: jekyll-theme-minimal
+lang: fr
+# GitHub Pages sert ce dossier tel quel (Settings → Pages → Source : main /docs).
+# Les pages sont en Markdown et rendues par Jekyll — aucune étape de build à
+# lancer à la main.
